@@ -1,0 +1,12 @@
+name: api-api_diagnostic_tool
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - requests
+  - click
+  - pytest
+  - pip
+  - pip:
+    - your-package-name  # Replace with your actual package name when you're ready to install it
