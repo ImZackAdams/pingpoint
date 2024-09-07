@@ -1,4 +1,4 @@
-name: api-diagnostic-tool
+name: api-diagnostic_tool
 channels:
   - defaults
   - conda-forge
